@@ -1,14 +1,11 @@
 # Hello, I'm Khang
 <a href="[https://linkedin.com](https://www.linkedin.com/in/th%E1%BA%BF-khang-huynh-aba8aa1a7/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a Canadian business student interested in IT solutions and ethics.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My values, interests, and a passion for lifelong learning has led me to the field of cybersecurity, which has blown up with the advent of digital transformation. I am eager to be a part of securing the technological frontier, and I am working towards honing security- and business-oriented skills to land a role in Governance, Risk, and Compliance as an analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
