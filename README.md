@@ -1,5 +1,5 @@
 # Hello, I'm Khang
-<a href="[https://linkedin.com](https://www.linkedin.com/in/th%E1%BA%BF-khang-huynh-aba8aa1a7/?original_referer=https%3A%2F%2Fduckduckgo%2Ecom%2F&originalSubdomain=ca)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[[https://www.linkedin.com/in/th%E1%BA%BF-khang-huynh-aba8aa1a7/?original_referer=https%3A%2F%2Fduckduckgo%2Ecom%2F&originalSubdomain=ca]"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a Canadian business student interested in IT solutions and ethics.
 
