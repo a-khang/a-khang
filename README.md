@@ -15,7 +15,7 @@ This is a page I use to publish some of the technical projects I am working on.
 | Security Frameworks and Controls               | <a href="https://google.com">Detection Lab</a>|
 | Cloud Security         | SOC Automation Lab|
 | Power BI/Tableau      | SOC Automation Lab|
-| Incident Repose                  | SOC Automation Lab|
+| Incident Response                  | SOC Automation Lab|
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
