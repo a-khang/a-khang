@@ -1,7 +1,8 @@
 # Hello, I'm Khang
 <a href="[[https://www.linkedin.com/in/th%E1%BA%BF-khang-huynh-aba8aa1a7/?original_referer=https%3A%2F%2Fduckduckgo%2Ecom%2F&originalSubdomain=ca]">
 <img src="[https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/th%E1%BA%BF-khang-huynh-aba8aa1a7/?original_referer=https%3A%2F%2Fduckduckgo%2Ecom%2F&originalSubdomain=ca)" />
-</a>
+
+<a href="https://www.linkedin.com/in/th%E1%BA%BF-khang-huynh-aba8aa1a7/">LinkedIn</a>
 
 A UBC student studying business, looking to specialize in MIS. Passionate about cybersecurity, digital safety, and sustainability in economics, the environment, and society. Interested in AI governance.
 
