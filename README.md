@@ -13,7 +13,7 @@ This is a page I intend to use to publish some of the technical projects I am wo
 | IT GRC                                         | <a href="https://google.com">ITGC Audit Automation Lab</a>|
 | Security Frameworks and Controls               | <a href="https://google.com">Audit Checklist Generator</a>|
 | Cloud Security                                 | <a href="https://google.com">GCP Security Audit</a>|
-| Power BI/Tableau                               | <a href="https://google.com">Vulnerability Management Dashboard</a>|
+| Tableau                                        | <a href="https://google.com">Vulnerability Management Dashboard</a>|
 | Incident Response                              | <a href="https://google.com">Detection Lab</a>|
 
 ## Certifications
@@ -25,3 +25,9 @@ This is a page I intend to use to publish some of the technical projects I am wo
 ## Projects
 - Detection Lab
 - SOC Automation Project
+
+## Tools
+- Excel
+- Tableau
+- R (Programming)
+- Python
