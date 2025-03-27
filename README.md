@@ -7,18 +7,16 @@ A UBC student studying business, looking to specialize in MIS. Passionate about 
 This is a page I use to publish some of the technical projects I am working on.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | IT GRC                                         | <a href="https://google.com">ITGC Audit Automation Lab</a>|
-| Security Frameworks and Controls               | <a href="https://google.com">Detection Lab</a>|
-| Cloud Security                                 | <a href="https://google.com">Detection Lab</a>|
-| Power BI/Tableau                               | <a href="https://google.com">Detection Lab</a>|
+| Security Frameworks and Controls               | <a href="https://google.com">Audit Checklist Generator</a>|
+| Cloud Security                                 | <a href="https://google.com">GCP Security Audit</a>|
+| Power BI/Tableau                               | <a href="https://google.com">Vulnerability Management Dashboard</a>|
 | Incident Response                              | <a href="https://google.com">Detection Lab</a>|
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-PCCET-FA582D?&style=for-the-badge&logo=PaloAlto&logoColor=white" />
