@@ -11,11 +11,11 @@ This is a page I use to publish some of the technical projects I am working on.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| IT GRC                                         | <a href="https://google.com">Detection Lab</a>|
+| IT GRC                                         | <a href="https://google.com">ITGC Audit Automation Lab</a>|
 | Security Frameworks and Controls               | <a href="https://google.com">Detection Lab</a>|
-| Cloud Security         | SOC Automation Lab|
-| Power BI/Tableau      | SOC Automation Lab|
-| Incident Response                  | SOC Automation Lab|
+| Cloud Security                                 | <a href="https://google.com">Detection Lab</a>|
+| Power BI/Tableau                               | <a href="https://google.com">Detection Lab</a>|
+| Incident Response                              | <a href="https://google.com">Detection Lab</a>|
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
