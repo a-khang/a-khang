@@ -18,8 +18,8 @@ This is a page I intend to use to publish some of the technical projects I am wo
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-PCCET-FA582D?&style=for-the-badge&logo=PaloAlto&logoColor=white" />
+<a href="https://www.credly.com/badges/73f23fdd-0fae-43bc-8948-5d27b84aced4/linked_in_profile"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/73f23fdd-0fae-43bc-8948-5d27b84aced4/linked_in_profile"><img src="https://img.shields.io/badge/-PCCET-FA582D?&style=for-the-badge&logo=PaloAlto&logoColor=white" />
 </div>
 
 ## Projects
