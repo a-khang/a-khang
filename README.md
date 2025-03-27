@@ -1,11 +1,10 @@
 # Hello, I'm Khang
 <a href="[[https://www.linkedin.com/in/th%E1%BA%BF-khang-huynh-aba8aa1a7/?original_referer=https%3A%2F%2Fduckduckgo%2Ecom%2F&originalSubdomain=ca]"><img src="[https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/th%E1%BA%BF-khang-huynh-aba8aa1a7/?original_referer=https%3A%2F%2Fduckduckgo%2Ecom%2F&originalSubdomain=ca)" /></a>
 
-I am a Canadian business student interested in IT solutions and ethics.
+A UBC student studying business, looking to specialize in MIS. Passionate about cybersecurity, digital safety, and sustainability in economics, the environment, and society. Interested in AI governance.
 
 ## Objective
-
-My values, interests, and a passion for lifelong learning has led me to the field of cybersecurity, which has blown up with the advent of digital transformation. I am eager to be a part of securing the technological frontier, and I am working towards honing security- and business-oriented skills to land a role in Governance, Risk, and Compliance as an analyst.
+This is a page I use to publish some of the technical projects I am working on.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
