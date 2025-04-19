@@ -11,7 +11,7 @@ With a background in cybersecurity under my toolbelt, I aim to showcase some pro
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | GRC Frameworks, Risk Management               | <a href="https://github.com/a-khang/it-audit-compliance-dashboard">GITC Audit Home Lab</a>|
-| Risk Management              | <a href="https://github.com/a-khang/it-audit-compliance-dashboard">Risk Register</a>|
+| Risk Management              | <a href="https://github.com/a-khang/risk_register_lab">Risk Register</a>|
 
 ## Certifications
 <div>
