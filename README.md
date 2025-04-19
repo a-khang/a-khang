@@ -1,10 +1,10 @@
 # About me
 <a href="https://www.linkedin.com/in/th%E1%BA%BF-khang-huynh-aba8aa1a7"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style-for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-My name is Khang. I am a UBC student studying business, looking to specialize in MIS. I am passionate about cybersecurity, digital safety, and sustainability in economics, the environment, and society. I am also interested in AI governance.
+I'm Khang, and I am passionate about information security. As a business student, I am particularly interested in the role that Governance, Risk, and Complicance (GRC) plays in assuring organizations as they embrace digital innovation while safeguarding against a rapidly expanding threat landscape. I am 
 
 ## Objective
-This is a page I intend to use to publish some of the technical projects I am working on.
+With a background in cybersecurity under my toolbelt, I aim to showcase some projects to demonstrate my technical skills and use documentation + business writing to share knowledge with non-technical audiences! (or perhaps others who are on a similar path to me)
 
 ## Skills
 
