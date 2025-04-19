@@ -1,7 +1,7 @@
 # About me
 <a href="https://www.linkedin.com/in/th%E1%BA%BF-khang-huynh-aba8aa1a7"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style-for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm Khang, and I am passionate about information security. As a business student, I am particularly interested in the role that Governance, Risk, and Complicance (GRC) plays in assuring organizations as they embrace digital innovation while safeguarding against a rapidly expanding threat landscape. I am 
+I'm Khang, and I am passionate about information security. As a business student, I am particularly interested in the role that Governance, Risk, and Complicance (GRC) plays in assuring organizations as they embrace digital innovation while safeguarding against a rapidly expanding threat landscape.
 
 ## Objective
 With a background in cybersecurity under my toolbelt, I aim to showcase some projects to demonstrate my technical skills and use documentation + business writing to share knowledge with non-technical audiences! (or perhaps others who are on a similar path to me)
