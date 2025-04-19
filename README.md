@@ -11,6 +11,7 @@ With a background in cybersecurity under my toolbelt, I aim to showcase some pro
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | GRC Frameworks, Risk Management               | <a href="https://github.com/a-khang/it-audit-compliance-dashboard">GITC Audit Home Lab</a>|
+| Risk Management              | <a href="https://github.com/a-khang/it-audit-compliance-dashboard">Risk Register</a>|
 
 ## Certifications
 <div>
@@ -18,10 +19,7 @@ With a background in cybersecurity under my toolbelt, I aim to showcase some pro
 <a href="https://www.credly.com/badges/73f23fdd-0fae-43bc-8948-5d27b84aced4/linked_in_profile"><img src="https://img.shields.io/badge/-PCCET-FA582D?&style=for-the-badge&logo=PaloAlto&logoColor=white" />
 </div>
 
-## Projects
-- 
 ## Tools
 - Excel
 - Tableau
-- R (Programming)
 - Python
