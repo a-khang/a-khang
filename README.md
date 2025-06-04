@@ -13,6 +13,9 @@ With a background in cybersecurity under my toolbelt, I aim to showcase some pro
 | GRC Frameworks, Risk Management               | <a href="https://github.com/a-khang/it-audit-compliance-dashboard">GITC Audit Home Lab</a>|
 | Risk Management              | <a href="https://github.com/a-khang/risk_register_lab">Risk Register</a>|
 
+## Learning
+<a href="https://github.com/a-khang/60-days">Blog: 60 Days of GRC</a>
+
 ## Certifications
 <div>
 <a href="https://www.credly.com/badges/c3e0d53f-4cec-4e42-9756-34fbaaf12ac8/linked_in_profile"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
