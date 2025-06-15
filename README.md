@@ -5,7 +5,9 @@ I'm Khang, and I come from a blend of academic backgrounds, ranging across comme
 ## Objectives of this Page
 In the time I've had exploring these topics, I strongly believe that strategically aligned IS practices can support organizations as they embrace digital innovation while safeguarding against a rapidly expanding threat landscape. In the pursuit of career development, I have cultivated this portfolio as a repository of my projects, opinions, and certifications: All of which can be found below.
 
-## Skills
+These projects all thematically follow a single, fictional business scenario which does shadow a real startup that I am developing. Just a little something to chew on here as you read through these repos: You're following me on the journey of navigating business and security challenges!
+
+## Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
