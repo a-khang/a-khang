@@ -1,6 +1,6 @@
 # About Me
 <a href="https://www.linkedin.com/in/th%E1%BA%BF-khang-huynh-aba8aa1a7"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style-for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+<a href="https://tryhackme.com/p/mongolhighlander"><img src="https://img.shields.io/badge/-TryHackMe-6fff87&style-for-the-badge&logo=tryhackme&logoColor=white" /></a>
 Hi, I'm Khang — a student with a background in both commerce and technology, working toward a career in cybersecurity. I'm especially interested in how startups and growing businesses tackle challenges around security, strategy, and ethics. I’ve earned my CompTIA Security+ certification and am actively building my skills in information security and IT audit. I'm eager to gain hands-on experience, keep learning, and contribute to creating secure, reliable systems.
 
 ## Objectives
