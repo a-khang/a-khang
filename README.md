@@ -1,6 +1,8 @@
 # About Me
 <a href="https://www.linkedin.com/in/th%E1%BA%BF-khang-huynh-aba8aa1a7"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style-for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 I'm Khang, and I come from a blend of academic backgrounds, ranging across commerce and technology. Due to my curiosity and exposure to these topics, I am passionate about navigating strategic, ethical, and information security challenges for growing businesses and startups. My career interests lie in the intersection of entrepreneurship, cybersecurity, and IT audit.
+
 ## Objectives
 In the time I've had exploring these topics, I strongly believe that strategically aligned IS practices can support organizations as they embrace digital innovation while safeguarding against a rapidly expanding threat landscape. In the pursuit of career development, I have cultivated this portfolio as a repository of my projects, opinions, and certifications: Below you can follow my journey as I practice Blue Team and GRC Skills against a fictional (but not fictional) startup scenario.
 
