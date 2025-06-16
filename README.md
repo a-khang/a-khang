@@ -3,12 +3,9 @@
 ## About Me
 I'm Khang, and I come from a blend of academic backgrounds, ranging across commerce and technology. Due to my curiosity and exposure to these topics, I am passionate about navigating strategic, ethical, and information security challenges for growing businesses and startups. My career interests lie in the intersection of entrepreneurship, cybersecurity, and IT audit.
 ## Objectives of this Page
-In the time I've had exploring these topics, I strongly believe that strategically aligned IS practices can support organizations as they embrace digital innovation while safeguarding against a rapidly expanding threat landscape. In the pursuit of career development, I have cultivated this portfolio as a repository of my projects, opinions, and certifications: All of which can be found below.
-
-These projects all thematically follow a single, fictional business scenario which does shadow a real startup that I am developing. Just a little something to chew on here as you read through these repos: You're following me on the journey of navigating business and security challenges!
+In the time I've had exploring these topics, I strongly believe that strategically aligned IS practices can support organizations as they embrace digital innovation while safeguarding against a rapidly expanding threat landscape. In the pursuit of career development, I have cultivated this portfolio as a repository of my projects, opinions, and certifications: Below you can follow my journey as I practice Blue Team and GRC Skills against a fictional (but not fictional) startup scenario.
 
 ## Projects
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Risk Management                               | <a href="https://github.com/a-khang/risk_register_lab">GUIDE: Building a Risk Register</a>|
@@ -19,7 +16,7 @@ These projects all thematically follow a single, fictional business scenario whi
 | Identity and Access Management                | <a href="https://github.com/a-khang/risk_register_lab">GUIDE: Developing Access Control Policies</a>|
 | Cloud Security                                | <a href="https://github.com/a-khang/risk_register_lab">GUIDE: Securing Systems by Design</a>|
 | Incident Response                             | <a href="https://github.com/a-khang/risk_register_lab">GUIDE: Methods for Developing Playbooks to Streamline Response</a>|
-| Risk and Controls Mapping                     | <a href="https://github.com/a-khang/risk_register_lab">Lab:Control Test Matrix </a>|
+| Risk and Controls Mapping                     | <a href="https://github.com/a-khang/risk_register_lab">LAB: Control Test Matrix </a>|
 
 
 ## Learning
