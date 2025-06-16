@@ -1,10 +1,12 @@
 # About Me
 <a href="https://www.linkedin.com/in/th%E1%BA%BF-khang-huynh-aba8aa1a7"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style-for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm Khang, and I come from a blend of academic backgrounds, ranging across commerce and technology. Due to my curiosity and exposure to these topics, I am passionate about navigating strategic, ethical, and information security challenges for growing businesses and startups. My career interests lie in the intersection of entrepreneurship, cybersecurity, and IT audit.
+Hi, I'm Khang — a student with a background in both commerce and technology, working toward a career in cybersecurity. I'm especially interested in how startups and growing businesses tackle challenges around security, strategy, and ethics. I’ve earned my CompTIA Security+ certification and am actively building my skills in information security and IT audit. I'm eager to gain hands-on experience, keep learning, and contribute to creating secure, reliable systems.
 
 ## Objectives
-In the time I've had exploring these topics, I strongly believe that strategically aligned IS practices can support organizations as they embrace digital innovation while safeguarding against a rapidly expanding threat landscape. In the pursuit of career development, I have cultivated this portfolio as a repository of my projects, opinions, and certifications: Below you can follow my journey as I practice Blue Team and GRC Skills against a fictional (but not fictional) startup scenario.
+Through my exploration of information systems and cybersecurity, I’ve come to believe that strategically aligned security practices are essential for organizations embracing digital innovation — especially as they face an increasingly complex threat landscape.
+
+This portfolio serves as a space to share my projects, perspectives, and certifications as I continue developing my skills and career in cybersecurity. Here, you can follow my journey as I practice Blue Team and GRC skills and apply them to a fictional startup scenario — one that closely mirrors a real-world project in which I’m involved. The scenario has been abstracted and obfuscated to protect the internal security posture of the organization while still reflecting realistic challenges.
 
 ## Projects
 | Skill                                         | Associated Project         |
