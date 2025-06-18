@@ -15,7 +15,7 @@ This portfolio serves as a space to share my projects, perspectives, and certifi
 | Risk Management                               | <a href="https://github.com/a-khang/risk_register_lab">GUIDE: Building a Risk Register</a>|
 | Security Monitoring and SIEM                  | <a href="https://github.com/a-khang/risk_register_lab">LAB: Splunk and Wazuh</a>|
 | Endpoint Detection and Response (EDR)         | <a href="https://github.com/a-khang/risk_register_lab">LAB: Policy Enforcement and Telemetry</a>|
-| Network Security                              | <a href="https://github.com/a-khang/risk_register_lab">LAB: Wireshark and Suricata</a>|
+| Network Security                              | <a href="https://github.com/a-khang/netsec_lab/blob/main/WRITEUP.md">LAB: Wireshark and Suricata</a>|
 | Vulnerability Management                      | <a href="https://github.com/a-khang/risk_register_lab">LAB: OpenVAS and Nessus</a>|
 | Identity and Access Management                | <a href="https://github.com/a-khang/risk_register_lab">GUIDE: Developing Access Control Policies</a>|
 | Cloud Security                                | <a href="https://github.com/a-khang/risk_register_lab">GUIDE: Securing Systems by Design</a>|
