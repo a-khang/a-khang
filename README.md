@@ -18,9 +18,11 @@ This portfolio serves as a space to share my projects, perspectives, and certifi
 | Network Security                              | <a href="https://github.com/a-khang/netsec_lab/blob/main/WRITEUP.md">LAB: Wireshark and Suricata</a>|
 | Vulnerability Management                      | <a href="https://github.com/a-khang/risk_register_lab">LAB: OpenVAS and Nessus</a>|
 | Identity and Access Management                | <a href="https://github.com/a-khang/risk_register_lab">GUIDE: Developing Access Control Policies</a>|
-| Cloud Security                                | <a href="https://github.com/a-khang/risk_register_lab">GUIDE: Securing Systems by Design</a>|
+| Cloud Security                                | <a href="https://github.com/a-khang/shared_responsibility_matrix">Analyzing Shared Responsibility across Providers for a Cloud-native Company</a>|
 | Incident Response                             | <a href="https://github.com/a-khang/risk_register_lab">GUIDE: Methods for Developing Playbooks to Streamline Response</a>|
 | Risk and Controls Mapping                     | <a href="https://github.com/a-khang/risk_register_lab">Control Gap Analysis for an AI Startup </a>|
+| Data Visualization and Storytelling           | <a href="https://github.com/a-khang/viz_dashboard">Tableau Risk Dashboard</a>|
+| Security Awareness                            | <a href="https://github.com/a-khang/risk_register_lab">Access Control Policy and Awareness Content for a Fintech company </a>|
 
 
 ## Learning
