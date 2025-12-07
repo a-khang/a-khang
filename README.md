@@ -7,26 +7,15 @@ Hi, I'm Khang — a student with a background in both commerce and technology, w
 ## Objectives
 Through my exploration of information systems and cybersecurity, I’ve come to believe that strategically aligned security practices are essential for organizations embracing digital innovation, especially as they face an increasingly complex threat landscape.
 
-This portfolio serves as a space to share my projects, perspectives, and certifications as I continue developing my skills and career in cybersecurity. Here, you can follow my journey as I practice Blue Team and GRC skills and apply them to a fictional startup scenario — one that closely mirrors a real-world project in which I’m involved. The scenario has been abstracted and obfuscated to protect the internal security posture of the organization while still reflecting realistic challenges.
+This portfolio serves as a space to share my projects, perspectives, and certifications as I continue developing my skills and career in cybersecurity. In my learning journey, I realized that focus is important for internalizing concepts - so each project really focuses on a domain of security, where I will drill down and demonstrate each workflow.
 
 ## Projects
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Risk Management                               | <a href="https://github.com/a-khang/risk_register_lab">Risk Register for Health SaaS</a>|
-| Security Monitoring and SIEM                  | <a href="https://github.com/a-khang/risk_register_lab">LAB: Splunk and Wazuh</a>|
-| Endpoint Detection and Response (EDR)         | <a href="https://github.com/a-khang/risk_register_lab">LAB: Policy Enforcement and Telemetry</a>|
-| Network Security                              | <a href="https://github.com/a-khang/netsec_lab/blob/main/WRITEUP.md">LAB: Wireshark and Suricata</a>|
-| Vulnerability Management                      | <a href="https://github.com/a-khang/risk_register_lab">LAB: OpenVAS and Nessus</a>|
-| Identity and Access Management                | <a href="https://github.com/a-khang/risk_register_lab">GUIDE: Developing Access Control Policies</a>|
-| Cloud Security                                | <a href="https://github.com/a-khang/shared_responsibility_matrix">Analyzing Shared Responsibility across Providers for a Cloud-native Company</a>|
-| Incident Response                             | <a href="https://github.com/a-khang/risk_register_lab">GUIDE: Methods for Developing Playbooks to Streamline Response</a>|
-| Risk and Controls Mapping                     | <a href="https://github.com/a-khang/risk_register_lab">Control Gap Analysis for an AI Startup </a>|
-| Data Visualization and Storytelling           | <a href="https://github.com/a-khang/viz_dashboard">Tableau Risk Dashboard</a>|
-| Security Awareness                            | <a href="https://github.com/a-khang/risk_register_lab">Access Control Policy and Awareness Content for a Fintech company </a>|
-
-
-## Learning
-<a href="https://github.com/a-khang/60-days">Blog: 60 Days of GRC</a>
+| Cyber Risk Management                         | <a href="https://github.com/a-khang/risk_register_lab">Risk Register for fictional Health SaaS</a>|
+| Security Monitoring and SIEM                  | <a href="https://github.com/a-khang/risk_register_lab">Splunk Boss of the SOC</a>|
+| Identity and Access Management                | <a href="https://github.com/a-khang/risk_register_lab">Microsoft Entra ID: Identity and Access Administrator Career Path </a>|
+| Security Architecture and Strategic Alignment | <a href="https://github.com/a-khang/risk_register_lab">Enterprise Risk Matrix + High-level SaaS Arch + Threat Model</a>|
 
 ## Certifications
 <div>
