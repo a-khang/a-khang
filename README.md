@@ -14,7 +14,7 @@ This portfolio serves as a space to share my projects, perspectives, and certifi
 |-----------------------------------------------|----------------------------|
 | Cyber Risk Management                         | <a href="https://github.com/a-khang/risk_register_lab">Risk Register for fictional Health SaaS</a>|
 | Security Monitoring and SIEM                  | <a href="https://github.com/a-khang/siem_splunk_bots">Splunk Boss of the SOC</a>|
-| Identity and Access Management                | <a href="https://github.com/a-khang/microsoft_iam_path">Microsoft Entra ID: Identity and Access Administrator Career Path </a>|
+| Identity and Access Management                | <a href="https://github.com/a-khang/microsoft_iam">Identity Management Lifecycle and Infrastructure Management in Entra ID</a>|
 | Security Architecture and Strategic Alignment | <a href="https://github.com/a-khang/security_architecture_governance">Enterprise Risk Matrix + High-level SaaS Arch + Threat Model</a>|
 
 ## Certifications
