@@ -19,6 +19,7 @@ This portfolio serves as a space to share my projects, perspectives, and certifi
 
 ## Certifications
 <div>
-<a href="https://www.credly.com/badges/c3e0d53f-4cec-4e42-9756-34fbaaf12ac8/linked_in_profile"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<a href="https://www.credly.com/badges/73f23fdd-0fae-43bc-8948-5d27b84aced4/linked_in_profile"><img src="https://img.shields.io/badge/-PCCET-FA582D?&style=for-the-badge&logo=PaloAlto&logoColor=white" />
+<a href="https://www.credly.com/badges/c3e0d53f-4cec-4e42-9756-34fbaaf12ac8/linked_in_profile"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white"/>
+  
+<a href="https://www.credly.com/badges/73f23fdd-0fae-43bc-8948-5d27b84aced4/linked_in_profile"><img src="https://img.shields.io/badge/-PCCET-FA582D?&style=for-the-badge&logo=PaloAlto&logoColor=white"/>
 </div>
