@@ -8,7 +8,7 @@ _A hero ventures forth from the world of common day into a region of supernatura
 
 Hi, I'm Khang — a student with a background in both commerce and technology, working toward a career in cybersecurity. 
 
-My interest in cyber must have sparked when I was 7 years old and tried to download "Free Minecraft" onto my dad's Windows 7 laptop. This was later ignited towards the end of high school after graduating the Palo Alto Networks Cybersecurity Academy. Cybersecurity is a flame I am still kindling, and I'm especially interested in how startups and growing businesses tackle challenges around balancing security and progress. I’ve earned my CompTIA Security+ certification and am actively building my skills in information security and IT audit. I'm eager to gain hands-on experience, keep learning, and contribute to creating secure, reliable systems.
+My interest in cyber must have sparked when I was about nine and tried to download "Free Minecraft" onto my dad's Windows 7 laptop. This was later ignited towards the end of high school after graduating the Palo Alto Networks Cybersecurity Academy. Cybersecurity is a flame I am still kindling, and I'm especially interested in how startups and growing businesses tackle challenges around balancing security and progress. I’ve earned my CompTIA Security+ certification and am actively building my skills in information security and IT audit. I'm eager to gain hands-on experience, keep learning, and contribute to creating secure, reliable systems.
 
 ## Objectives and Approach
 This portfolio serves as a space to share my learnings, projects, and perspectives as I continue developing my skills and career in cybersecurity. Today, depth is valued over breadth of knowledge areas. To build effective T-shaped skills to guide me to GRC in the long term, I have a plan:
@@ -19,7 +19,7 @@ This portfolio serves as a space to share my learnings, projects, and perspectiv
 ## Projects
 | Skill                                         | Associated Project         | Status |
 |-----------------------------------------------|----------------------------| ------ |
-| Cyber Risk Management                         | <a href="https://github.com/a-khang/risk_register_lab">Risk Register for fictional Health SaaS</a>| In progress |
+| Cyber Risk Management                         | <a href="https://github.com/a-khang/risk_register_lab">Case: Risk Reporting and Recommendations with NIST CSF</a>| In progress |
 | Identity and Access Management                | <a href="https://github.com/a-khang/microsoft_iam">Identity Management Lifecycle and Infrastructure Management in Entra ID</a>| In progress |
 | Security Architecture and Strategic Alignment | Enterprise Risk Matrix + High-level SaaS Arch + Threat Model| Not started |
 | Security Monitoring and SIEM                  | Splunk Boss of the SOC| Not started |
