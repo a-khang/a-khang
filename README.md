@@ -3,8 +3,7 @@ _A hero ventures forth from the world of common day into a region of supernatura
 ~ A Hero's Journey, Joseph Campbell
 
 # About Me
-<a href="https://www.linkedin.com/in/th%E1%BA%BF-khang-huynh-aba8aa1a7"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style-for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://tryhackme.com/p/thekhang"><img src="https://img.shields.io/badge/-TryHackMe-green" /></a>
+<a href="https://tryhackme.com/p/thekhang"><img src="https://img.shields.io/badge/-TryHackMe-B6FC60?&style=for-the-badge"/><a href="https://www.credly.com/badges/c3e0d53f-4cec-4e42-9756-34fbaaf12ac8/linked_in_profile"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge"/><a href="https://www.linkedin.com/in/th%E1%BA%BF-khang-huynh-aba8aa1a7"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?&style=for-the-badge"/>
 
 Hi, I'm Khang — a student with a background in both commerce and technology, working toward a career in cybersecurity. 
 
