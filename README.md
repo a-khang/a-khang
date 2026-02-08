@@ -19,7 +19,7 @@ This portfolio serves as a space to share my learnings, projects, and perspectiv
 | Skill                                         | Associated Project         | Status |
 |-----------------------------------------------|----------------------------| ------ |
 | Cyber Risk Management                         | <a href="https://github.com/a-khang/helios_case">Case: Risk Reporting and Recommendations with NIST CSF</a>| In progress |
-| IAM and Workforce Identity                | <a href="https://github.com/a-khang/microsoft_iam">Identity Management Lifecycle and Infrastructure Management in Entra ID</a>| In progress |
+| IAM and Workforce Identity                | <a href="https://github.com/a-khang/microsoft_iam">Identity Security Program </a>| In progress |
 | Security Architecture and Strategic Alignment | Enterprise Risk Matrix + High-level SaaS Arch + Threat Model| Not started |
 | Security Monitoring and SIEM                  | Splunk Boss of the SOC| Planned |
 
