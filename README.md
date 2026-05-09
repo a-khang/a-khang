@@ -13,7 +13,7 @@
 ## Projects
 | Domain                                        | Status |
 |-----------------------------------------------|------ |
-|<a href="https://github.com/a-khang/identity_security"> Crestline: IAM Risk Assessment & Process Design </a>|In progress|
+|<a href="https://github.com/a-khang/iam-risk-assessment-crestline"> Crestline: IAM Risk Assessment & Process Design </a>|In progress|
 
 ## Tools
 - Entra ID
