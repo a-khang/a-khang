@@ -13,8 +13,8 @@
 ## Projects
 | Domain                                        | Status | Category |
 |-----------------------------------------------|------ | ----------|
-|<a href="https://github.com/a-khang/iam-risk-assessment-crestline"> Crestline: IAM Risk Assessment & Process Design </a>|Finalizing| IAM, GRC |
-| Analyzing | | Data Analysis |
+|<a href="https://github.com/a-khang/iam-risk-assessment-crestline"> IAM Risk Assessment & Process Design </a>|Finalizing| IAM, GRC |
+| Analyzing 2021-2025 Cybersecurity Impact Trends | In progress | Data Analysis |
 | SSO via Google Authenticator | Planned | IAM |
 | Identity Management in EntraID | Planned | IAM |
 
