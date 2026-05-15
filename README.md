@@ -11,9 +11,12 @@
 3. Document learnings, projects, perspectives.
 
 ## Projects
-| Domain                                        | Status |
-|-----------------------------------------------|------ |
-|<a href="https://github.com/a-khang/iam-risk-assessment-crestline"> Crestline: IAM Risk Assessment & Process Design </a>|In progress|
+| Domain                                        | Status | Category |
+|-----------------------------------------------|------ | ----------|
+|<a href="https://github.com/a-khang/iam-risk-assessment-crestline"> Crestline: IAM Risk Assessment & Process Design </a>|Finalizing| IAM, GRC |
+| Analyzing | | Data Analysis |
+| SSO via Google Authenticator | Planned | IAM |
+| Identity Management in EntraID | Planned | IAM |
 
 ## Tools
 - Entra ID
